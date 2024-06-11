@@ -20,7 +20,7 @@ This application provides a simple and intuitive interface for managing tasks an
 - **Laravel**: For a robust and scalable PHP framework.
 
 
-##To run this project locally, follow these steps:
+## To run this project locally, follow these steps:
 
 1)Clone the repository:
 git clone https://github.com/yourusername/task-list-app.git
